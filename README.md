@@ -1,2 +1,2 @@
 # R_File
-### All basic commands of #R
+### All basic commands of R
